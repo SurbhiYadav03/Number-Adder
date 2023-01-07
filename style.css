@@ -1,0 +1,49 @@
+body{
+    background-image: radial-gradient(Pink,white,orange);
+}
+#screen
+{
+    border: 2px solid black;
+    padding:20px;
+    margin-bottom:50px;
+    background-color:rgb(181, 176, 176);
+}
+.main{
+    border:2px solid black;
+    padding:50px;
+    margin:20vh 60vh;
+    width: 500px;
+    background-color: rgb(29, 27, 27);
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px grey;
+
+}
+.container{
+    display: block;
+    padding:25px;
+    text-align: center;
+    background-color: rgb(61, 58, 58);
+    color:red;
+    font-size:20px;
+    border-radius: 50px;
+}
+#add{
+    margin-top:30px;
+    padding:10px;
+    width: 80px;
+    font-size:medium;
+    font-weight:bold;
+    background-color: green;
+}
+#num1,#num2{
+   width: 150px;
+   padding:5px;
+   text-align: center;
+   font-size: medium;
+   font-weight: bold;
+}
+#res{
+    margin-left:45%;
+    font-size:25px;
+    font-weight: bold;
+}
